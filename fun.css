@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 150%;
+  font-size: 5rem;
+}
+
+.but {
+  border-radius: 5px;
+  background-color: #debdf3;
+  border: red;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+  font-weight: 20px;
+  cursor: pointer;
+}
